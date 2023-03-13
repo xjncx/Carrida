@@ -1,2 +1,2 @@
 # Carrida
-Arcade game
+Arcade game with crushing cars and in-game store
